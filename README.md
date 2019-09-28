@@ -1,6 +1,6 @@
 # 코딩 교육센터 홈페이지 제작 프로젝트
 
-  팀원 Github 주소 (송시찬) : https://github.com/
+  팀원 Github 주소 (송시찬) : https://github.com/UcanCallmeJason
   
 ## 개발목적
   웹페이지의 동작 방식의 이해와 팀의 개성을 살린 웹사이트 제작
